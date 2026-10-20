@@ -3,7 +3,7 @@
   "season": 2026,
   "phase": "regular",
   "week": 7,
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "source": "weekly",
   "credit": "https://github.com/tuckerfam5/bolt-bowl-data#credit",
   "records": {
@@ -34,11 +34,11 @@
     "new-york-jetpacks": {"w": 2, "l": 4, "t": 0, "pf": 112, "pa": 122},
     "philadelphia-eaglegorithms": {"w": 2, "l": 4, "t": 0, "pf": 106, "pa": 137},
     "pittsburgh-steel-circuits": {"w": 4, "l": 2, "t": 0, "pf": 137, "pa": 128},
-    "san-francisco-404ers": {"w": 5, "l": 0, "t": 0, "pf": 154, "pa": 93},
+    "san-francisco-404ers": {"w": 6, "l": 0, "t": 0, "pf": 177, "pa": 110},
     "seattle-sea-hacks": {"w": 3, "l": 3, "t": 0, "pf": 148, "pa": 122},
     "tampa-bay-bugcaneers": {"w": 1, "l": 5, "t": 0, "pf": 119, "pa": 138},
     "tennessee-titanium": {"w": 1, "l": 5, "t": 0, "pf": 84, "pa": 129},
-    "washington-command-lines": {"w": 1, "l": 3, "t": 1, "pf": 115, "pa": 149}
+    "washington-command-lines": {"w": 1, "l": 4, "t": 1, "pf": 132, "pa": 172}
   },
   "lastSeason": {
     "arizona-cardinodes": {"w": 3, "l": 14, "t": 0, "pf": 355, "pa": 488},
